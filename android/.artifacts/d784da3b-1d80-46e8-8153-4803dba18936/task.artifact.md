@@ -1,4 +1,0 @@
-- `[ ]` Increase network timeout in `gradle-wrapper.properties`
-- `[ ]` Hide `APKDownloadSection` in native app (`src/components/home/APKDownloadSection.tsx`)
-- `[ ]` Redirect `DownloadAppPage` in native app (`src/pages/DownloadAppPage.tsx`)
-- `[ ]` Verify changes and provide walkthrough

@@ -1,6 +1,0 @@
-- [x] Remove Infrastructure from App.tsx (import and route)
-- [x] Delete InfrastructurePage.tsx
-- [x] Remove Infrastructure from Header.tsx (mobileLinks)
-- [x] Remove Infrastructure from Footer.tsx (quickLinks)
-- [x] Update GalleryPage.tsx (categories and images)
-- [x] Verify removal
