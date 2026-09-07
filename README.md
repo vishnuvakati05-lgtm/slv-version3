@@ -128,7 +128,7 @@ This repository is configured for automated CI/CD with Cloudflare Pages:
 * **Root Directory**: `/`
 
 ### Wrangler CLI
-You can also deploy manually to Cloudflare using the included `wrangler.json`:
+You can also deploy manually to Cloudflare using the included `wrangler.jsonc`:
 ```bash
 npm run deploy
 ```

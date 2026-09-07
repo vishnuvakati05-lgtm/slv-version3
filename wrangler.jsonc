@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "slv-3",
+  "name": "slv-version3",
   "compatibility_date": "2025-01-01",
   "assets": {
     // Directory containing Vite production build output
